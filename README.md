@@ -6,8 +6,6 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="250">
 <br/>
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="kishoretheeraj" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

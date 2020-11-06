@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoretheeraj&label=Profile%20views&color=6c51f6&style=flat-square" alt="kishoretheeraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kishoretheeraj" target="blank"><img src="https://img.shields.io/twitter/follow/kishoretheeraj?logo=twitter&style=for-the-badge" alt="kishoretheeraj" /></a> </p>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="250">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="250">
 <br/>
 
 ### Connect with me:

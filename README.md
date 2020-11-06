@@ -1,5 +1,8 @@
 ### Hi there, I'm Kishore Theeraj 👋
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 ## I'm a Student, Developer, Desginer, and Mentor!!
 
 - 🔭 I just Started Building Some Cool Apps.
@@ -7,6 +10,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 ### Connect with me:
 

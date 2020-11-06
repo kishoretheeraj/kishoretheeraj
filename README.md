@@ -56,11 +56,10 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
 
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 [website]: https://kishoretheeraj.com
 [twitter]: https://twitter.com/kishoretheeraj

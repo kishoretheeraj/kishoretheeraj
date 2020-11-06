@@ -50,13 +50,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kishoretheeraj's GitHub Stats" src="https://https://github-readme-stats.kishoretheeraj.vercel.app//api?username=kishoretheeraj&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://kishoretheeraj.com
 [twitter]: https://twitter.com/kishoretheeraj
 [youtube]: https://www.youtube.com/channel/UC3KRoCTQQoiKKwnlPJZQmSQ/featured?view_as=subscriber

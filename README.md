@@ -8,7 +8,7 @@
 [<img align="left" alt="kishoretheeraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kishoretheeraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kishoretheeraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]//[discord]
 
 <br />
 
@@ -65,4 +65,4 @@
 [instagram]: https://www.instagram.com/kishoretheeraj/
 [linkedin]: https://www.linkedin.com/in/kishoretheeraj/
 [telegram]: https://t.me/kishoretheeraj
-[discord]: 
+//[discord]: 

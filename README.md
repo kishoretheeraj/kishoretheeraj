@@ -1,5 +1,8 @@
 ### Hi there, I'm Kishore Theeraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="250">
+
 ### Connect with me:
 
 [<img align="left" alt="kishoretheeraj" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -8,7 +11,7 @@
 [<img align="left" alt="kishoretheeraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kishoretheeraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kishoretheeraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]//[discord]
+[<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
 
 <br />
 
@@ -65,4 +68,3 @@
 [instagram]: https://www.instagram.com/kishoretheeraj/
 [linkedin]: https://www.linkedin.com/in/kishoretheeraj/
 [telegram]: https://t.me/kishoretheeraj
-//[discord]: 

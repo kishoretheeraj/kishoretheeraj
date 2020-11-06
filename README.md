@@ -11,11 +11,11 @@
 [<img align="left" alt="kishoretheeraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kishoretheeraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kishoretheeraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <br />
 
-## I'm a Student, Developer, Desginer, and Mentor!!
+## I'm a Student, Developer, Desginer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 - 🔭 I just Started Building Some Cool Apps.
 - 🌱 I’m currently learning everything 🤣

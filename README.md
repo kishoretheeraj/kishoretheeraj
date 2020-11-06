@@ -69,6 +69,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#25](https://github.com/animeshk08/GitCommandTutorial/pull/25) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)
+2. ❗️ Opened issue [#24](https://github.com/animeshk08/GitCommandTutorial/issues/24) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)
 <!--END_SECTION:activity-->
 
 

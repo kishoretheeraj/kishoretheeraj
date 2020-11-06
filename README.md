@@ -4,8 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/kishoretheeraj" target="blank"><img src="https://img.shields.io/twitter/follow/kishoretheeraj?logo=twitter&style=for-the-badge" alt="kishoretheeraj" /></a> </p>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="250">
+<br/>
 
-
+<br/>
 
 ### Connect with me:
 
@@ -16,9 +17,8 @@
 [<img align="left" alt="kishoretheeraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kishoretheeraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-
-<br />
-
+<br/>
+<br/>
 ## I'm a Student, Developer, Desginer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 - 🔭 I just Started Building Some Cool Apps.
@@ -51,13 +51,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
+
 
 
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretheeraj&theme=light&hide_langs_below=1" />
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretheeraj&theme=light&hide_langs_below=1" />
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoretheeraj" alt="kishoretheeraj" /></a> </p>
 
 

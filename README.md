@@ -22,7 +22,7 @@
 
 - 🔭 I just Started Building Some Cool Apps.
 - 🌱 I’m currently learning everything 🤣
-- 🤔 I’m looking for help with .
+- 🤔 I’m looking for help with Jetpack Compose.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @kishoretheeraj](https://www.linkedin.com/in/kishoretheeraj/)
 - 😄 Pronouns: He/His
@@ -42,6 +42,7 @@
 <br/>
 
 
+<br/>
 ### Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

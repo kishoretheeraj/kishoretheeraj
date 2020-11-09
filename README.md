@@ -32,7 +32,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kishoretheeraj&layout=compact&theme=radical" />
+</a>
+
 <br/>
+
 
 ### Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -53,11 +58,6 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kishoretheeraj&layout=compact&theme=radical" />
-</a>
-
-<br/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoretheeraj" alt="kishoretheeraj" /></a> </p>

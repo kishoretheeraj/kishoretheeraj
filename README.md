@@ -61,19 +61,6 @@
 
 
 
-
-<br/>
-<br/>
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoretheeraj" alt="kishoretheeraj" /></a> </p>
-
-
-### :zap: Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/animeshk08/GitCommandTutorial/pull/25) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)

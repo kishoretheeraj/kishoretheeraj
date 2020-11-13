@@ -18,7 +18,7 @@
 <br/>
 <br/>
 <br/>
-## I'm a Student, Mobile Developer, UX Designer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>gn
+## I'm a Student, Mobile Developer, UX Designer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 - 🔭 I just Started Building Some Cool Apps.
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with Jetpack Compose.
@@ -58,15 +58,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
-
-
-<br/>
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/animeshk08/GitCommandTutorial/pull/25) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)
-2. ❗️ Opened issue [#24](https://github.com/animeshk08/GitCommandTutorial/issues/24) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)
-<!--END_SECTION:activity-->
 
 
 

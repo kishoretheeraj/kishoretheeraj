@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoretheeraj&label=Profile%20views&color=6c51f6&style=flat-square" alt="kishoretheeraj" /> </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?](https://github.com/piyushsuthar/github-readme-quotes)
-
 <p align="left"> <a href="https://twitter.com/kishoretheeraj" target="blank"><img src="https://img.shields.io/twitter/follow/kishoretheeraj?logo=twitter&style=for-the-badge" alt="kishoretheeraj" /></a> </p>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="250">
 
@@ -35,7 +33,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kishoretheeraj&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretheeraj&layout=compact&theme=radical" />
 </a>
 
 

@@ -32,12 +32,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretheeraj&layout=compact&theme=radical" />
 </a>
 
 
 <br/>
+
 
 ### Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -58,6 +60,8 @@
 
 <br/>
 
+
+<br/>
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/animeshk08/GitCommandTutorial/pull/25) in [animeshk08/GitCommandTutorial](https://github.com/animeshk08/GitCommandTutorial)

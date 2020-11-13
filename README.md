@@ -18,8 +18,7 @@
 <br/>
 <br/>
 <br/>
-## I'm a Student, Developer, Desginer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
+## I'm a Student, Mobile Developer, UX Designer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>gn
 - 🔭 I just Started Building Some Cool Apps.
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with Jetpack Compose.

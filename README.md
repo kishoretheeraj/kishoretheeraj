@@ -17,15 +17,16 @@
 <br/>
 <br/>
 ## I'm a Student, Mobile Developer, UX Designer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-- 🔭 I just Started Building Some Cool Apps.
-- 🌱 I’m currently learning everything 🤣
-- 🤔 I’m looking for help with Jetpack Compose.
-- 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @kishoretheeraj](https://www.linkedin.com/in/kishoretheeraj/)
-- 😄 Pronouns: He/His
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love programming
+<br/>
+- 🔭 I just Started Building Some Cool Apps.<br/>
+- 🌱 I’m currently learning everything 🤣<br/>
+- 🤔 I’m looking for help with Jetpack Compose.<br/>
+- 💬 Ask me about Android or any tech related stuff.<br/>
+- 📫 How to reach me: [Linkedin - @kishoretheeraj](https://www.linkedin.com/in/kishoretheeraj/)<br/>
+- 😄 Pronouns: He/His<br/>
+- 👯 I’m looking to collaborate with other content creators<br/>
+- 🥅 2020 Goals: Contribute more to Open Source projects<br/>
+- ⚡ Fun fact: I love programming<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 

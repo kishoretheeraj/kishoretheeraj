@@ -12,9 +12,7 @@
 [<img align="left" alt="kishoretheeraj | YouTube" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:youtube?source=test" />][youtube]
 [<img align="left" alt="kishoretheeraj | Twitter" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:twitter?source=test" />][twitter]
 [<img align="left" alt="kishoretheeraj | LinkedIn" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:linkedin?source=test" />][linkedin]
-[<img align="left" alt="kishoretheeraj | Instagram" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:instagram?source=test" />][instagram]
-[<img align="left" alt="kishoretheeraj's Telegram" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:telegram?source=test" />][telegram]
-<img align="left" alt="kishoretheeraj's Discord" width="22px" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:discord?source=test" />
+
 <br/>
 <br/>
 <br/>

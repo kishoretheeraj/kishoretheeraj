@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-## I'm a Student, Mobile Developer, UX Designer, and Mentor!!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## <h2><strong>I'm a Student, Mobile Developer, UX Designer, and Mentor!!</strong></h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <br/>
 - 🔭 I just Started Building Some Cool Apps.<br/>
 - 🌱 I’m currently learning everything 🤣<br/>

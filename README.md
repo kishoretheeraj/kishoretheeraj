@@ -26,7 +26,7 @@
 - 📫 How to reach me: [Linkedin - @kishoretheeraj](https://www.linkedin.com/in/kishoretheeraj/)<br/>
 - 😄 Pronouns: He/His<br/>
 - 👯 I’m looking to collaborate with other content creators<br/>
-- 🥅 2021 Goals: Contribute more to Open Source projects<br/>
+- 🥅 2022 Goals: Contribute more to Community<br/>
 - ⚡ Fun fact: Without requirements or design, programming is the art of adding bugs to an empty text file.<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoretheeraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
